@@ -1,3 +1,5 @@
+//this project requeires an ST77XX display and is currently configured for the green tab version of ST7735
+
 #include <WiFi.h>
 #include <WebServer.h>
 #include <Adafruit_GFX.h>
